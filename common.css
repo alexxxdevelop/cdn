@@ -1,7 +1,7 @@
 ﻿@font-face { font-family: "main"; src: url("../webfonts/Open_Sans/OpenSans-Light.ttf") format("truetype"); }
 
 * { margin: 0; padding: 0; outline: none; box-sizing: border-box; }
-html, body { height: 100%; }
+html, body { height: 100%; } 
 body { background: #17191b; color: #ddd; font-family: 'main'; font-size: 13px; }
 a { text-decoration: none; color: #008fe2; }
 h1, h2, h3, h4, h5, h6 { font-weight: normal; }
